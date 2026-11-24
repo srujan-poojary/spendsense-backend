@@ -2,8 +2,8 @@
 
 The REST API powering SpendSense. Handles multimodal receipt vision OCR, expense management, and budget analytics.
 
-> **Live API:** [spendsense-backend.onrender.com](https://your-api.onrender.com)  
-> **Frontend App:** [spendsense-frontend.vercel.app](https://your-app.vercel.app)
+> **Live API:** [spendsense-backend-7kwv.onrender.com](https://spendsense-backend-7kwv.onrender.com)  
+> **Frontend App:** [spendsense-frontend-zeta.vercel.app](https://spendsense-frontend-zeta.vercel.app)
 
 ---
 
